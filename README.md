@@ -1,3 +1,3 @@
  
 Comparing multiple models on the Irish house price index. 
-Models used vary from machine learning algorithms to traditional OLS regression. 
+Comparing a fully connected neural network, a stateful LSTM model, a linear OLS regression model(no back propagation) and an Engle Granger error correction model(no backpropagation). 
